@@ -1,1 +1,1 @@
-C#
+*.cs linguist-language=C#
